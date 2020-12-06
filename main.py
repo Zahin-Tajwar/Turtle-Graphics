@@ -60,7 +60,7 @@ def help():
     turtle.color('black')
     turtle.setposition(0, -120)
     turtle.color('white')
-    turtle.write('Press c to undo.', font=style, align='center')
+    turtle.write('Press u to undo.', font=style, align='center')
     turtle.color('black')
     turtle.setposition(0, -160)
     turtle.color('white')
